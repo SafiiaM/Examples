@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\refint\Example007_Magic.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
