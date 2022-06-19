@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
