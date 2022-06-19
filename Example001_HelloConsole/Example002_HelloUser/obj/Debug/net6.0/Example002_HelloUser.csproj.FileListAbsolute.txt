@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Examples\Example001_HelloConsole\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
